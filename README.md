@@ -43,7 +43,7 @@ Why Critical Minerals Matter?
 Lithium, nickel, and cobalt are essential for battery production in EVs.
 Demand for critical minerals is rising due to the global shift to renewable energy.
 Forecasting lithium supply & EV sales helps in sustainable energy planning.
-✅ Scenario-Based Forecasting
+Scenario-Based Forecasting
 The model applies growth multipliers on historical data to estimate future EV market demand and lithium supply chain availability:
 
 Baseline Growth: Final Forecast = Baseline Forecast × 1.0
